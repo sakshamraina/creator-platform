@@ -44,5 +44,3 @@ Built using **React**, **Express**, **OpenAI API**, **MongoDB**, **Tailwind CSS*
 
 ---
 
-## 📁 Folder Structure
-
